@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # ccc_ass2
 #It‘s an assignment of the lecture Cluster and Cloud Computing of the University of Melbourne
 #The group members are: Yi Li, Mohnish Devadiga,(Please add your name here)
@@ -14,4 +13,3 @@
 
 # Video of deployment and working
 <https://www.youtube.com/watch?v=Zchsmoo__Kw>
->>>>>>> upstream/master
